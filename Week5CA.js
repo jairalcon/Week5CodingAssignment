@@ -113,7 +113,7 @@ class Menu {
 
 //to start menu in browser
 let menu = new Menu();
-// menu.start();
+menu.start();
 
 
 // testing code
